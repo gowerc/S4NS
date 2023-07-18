@@ -1,6 +1,5 @@
 devtools::install()
 library(testpkg)
-usethis::use_build_ignore("misc/")
 
 ##############
 #
