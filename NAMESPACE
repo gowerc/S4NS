@@ -1,0 +1,12 @@
+
+
+export(B1)
+exportClasses(Base_1)
+export(B2)
+exportClasses(Base_3)
+
+
+importFrom("Matrix", mean)
+export(myGen)
+
+
